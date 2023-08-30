@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @israadari
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning  computer science
-- 💞️ I’m looking to collaborate on c++
+- 💞️ I’m frontend developer, I develop websites
 - 📫 reach me on email: israa.i.dari@gmail.com
 
 <!---
